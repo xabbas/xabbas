@@ -6,16 +6,6 @@
 - 📝 I occasionally write articles on <a href="https://xabbas.hashnode.dev/" target="blank">xabbas@hashnode.com</a><br>
 - ⚡ Fun fact: I’ve been electrocuted. (Don’t ask how)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://hashnode.com/@xabbas" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Hashnode_icon.svg" alt="@xabbas" height="30" width="40" />
-    </a>
-    <p align="left">
-    <a href="https://linktr.ee/sohailbagoro" target="blank">
-        <img align="center" src="https://thumb.wikimedia.org/wikipedia/en/thumb/b/bf/Linktree_logo.svg/1280px-Linktree_logo.svg.png" height="30" width="40" />
-    </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
