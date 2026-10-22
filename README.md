@@ -66,4 +66,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xabbas&show_icons=true&locale=en" alt="xabbas" width="400px"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xabbas&" alt="xabbas" width="400px"/>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=xabbas)](https://github.com/ryo-ma/github-profile-trophy)
